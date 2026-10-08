@@ -1,0 +1,43 @@
+ANUSHYA KADALI
+B.Tech Computer Science and Engineering Student | Aspiring Software Developer
+
+Email: kanushya6@gmail.com
+LinkedIn: https://www.linkedin.com/in/Anushyakadali/
+Location: Amalapuram, Andhra Pradesh
+
+PROFILE
+Motivated Computer Science and Engineering student with knowledge of Python,
+JavaScript, web technologies, databases, and Artificial Intelligence. Interested
+in software development, problem solving, and building useful applications.
+
+EDUCATION
+B.Tech, Computer Science and Engineering | 2023-2027
+Srinivasa Institute of Engineering and Technology, Amalapuram
+CGPA: 8.49
+
+Intermediate, MPC | 2021-2023
+Sri Deepthi Mahila Junior College, Malikipuram
+Score: 84%
+
+Secondary School Certificate | 2021
+ZPP High School, Rameswaram
+Score: 9.5
+
+SKILLS
+Programming: Python, JavaScript
+Web: HTML, CSS, React.js, Node.js, Express.js, jQuery, Bootstrap
+Databases: MongoDB, MySQL
+AI and Machine Learning: Artificial Intelligence, Machine Learning
+
+PROJECT
+AI Career Guide & Resume Analyzer
+An AI-powered career guidance and resume analysis application designed to help
+users identify suitable career paths, understand skill gaps, and create a
+personalized learning plan based on their target role and current skills.
+Features: target-role and current-skills assessment, AI-powered career guidance,
+skill-gap analysis, a personalized 30-day learning roadmap, learning resources,
+resume analysis, and career recommendations.
+
+PERSONAL STRENGTHS
+Problem solving, communication, logical thinking, quick learning, teamwork,
+and adaptability.
